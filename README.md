@@ -12,9 +12,9 @@ print(f'Initial test MSE: {mse:.1f}')
 ```
 Initial validation MSE: 0.0
 ```Python
-print(f'Initial test accuracy: {acc*100:.1f}%')
+print(f'Test MSE: {mse:.1f}')
 ```
-Initial test accuracy: 95.8%
+Test accuracy: 96.1%
 
 ## Результаты torch_NeuralNetMLP
 ```Python
