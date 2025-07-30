@@ -21,3 +21,9 @@ Test accuracy: 96.1%
 print(f'Test accuracy: {is_correct.mean():.4f}')
 ```
 Test accuracy: 0.9709
+
+## Результаты CNN
+```Python
+Test accuracy: 0.9936
+```
+
